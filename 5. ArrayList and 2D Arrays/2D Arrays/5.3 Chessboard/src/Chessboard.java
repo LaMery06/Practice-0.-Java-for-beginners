@@ -23,6 +23,7 @@ public class Chessboard
          }
          System.out.println();
       }
-//Comentario
+      //TODO @otrapersona cambiale el color
+      //FIXME
    }
 }

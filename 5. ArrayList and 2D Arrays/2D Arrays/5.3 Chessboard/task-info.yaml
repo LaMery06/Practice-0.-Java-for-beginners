@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 118
-        length: 463
+        length: 508
         placeholder_text: /* Create and print a chessboard. */
         initial_state:
           length: 36
